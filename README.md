@@ -1,5 +1,7 @@
 #codsoft_task1
 
+**Student Grade Calculator**
+
 After running the code, 
 
 Input: You can input as many numbers of subjects as you want then,
