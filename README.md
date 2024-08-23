@@ -1,4 +1,4 @@
-# STUDENT-GRADE-CALCULATOR
+codsoft_task1
 after running the code, 
 
 Input: You can input as many numbers of subjects as you want then,
